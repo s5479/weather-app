@@ -1,0 +1,16 @@
+{
+  "name": "expressweb",
+  "version": "1.0.0",
+  "description": "myFirstExpressProject",
+  "main": "\t",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node app.js"
+  },
+  "author": "CreatedBySurendra",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "hbs": "^4.2.0"
+  }
+}
